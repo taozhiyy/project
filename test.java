@@ -1,4 +1,7 @@
 public void test(){
-	public static void main(){}
-	
+	public static void main(){
+		sysout();
+	}
+
 }
+
